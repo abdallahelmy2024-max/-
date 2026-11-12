@@ -1,0 +1,11 @@
+{
+  "name": "رزق البنات - مفروشات ومستلزمات المنزل",
+  "short_name": "رزق البنات",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fffaf7",
+  "theme_color": "#a91455",
+  "icons": []
+}
