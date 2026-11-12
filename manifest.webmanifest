@@ -2,7 +2,7 @@
   "id": "./",
   "name": "رزق البنات - مفروشات ومستلزمات المنزل",
   "short_name": "رزق البنات",
-  "description": "متجر رزق البنات للمفروشات وملايات السرير والفوط والبطاطين ومستلزمات المنزل. تسوق بسهولة واكتشف أحدث العروض.",
+  "description": "متجر رزق البنات للمفروشات وملايات السرير والفوط والبطاطين ومستلزمات المنزل.",
   "lang": "ar",
   "dir": "rtl",
   "start_url": "./",
@@ -11,6 +11,18 @@
   "orientation": "portrait",
   "background_color": "#fffaf7",
   "theme_color": "#a91455",
-  "categories": ["shopping", "lifestyle"],
-  "icons": []
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
